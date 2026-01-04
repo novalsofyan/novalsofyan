@@ -15,7 +15,3 @@
 **Currently Learning & Leveling Up**
 
 ![Go](https://img.shields.io/badge/Go--Backend-00ADD8?style=flat-square&logo=go&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-
-### Contact
-- [LinkedIn](https://linkedin.com/in/novalsofyan)
-- [Email](mailto:novalsofyan.business@gmail.com)

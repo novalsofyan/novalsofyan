@@ -10,7 +10,7 @@
 
 **Back-end Web Dev**
 
-![Hono](https://img.shields.io/badge/Hono-20232A?style=flat-square&logo=hono&logoColor=FF4D15)
+![Hono](https://img.shields.io/badge/Hono-FF9955?style=flat-square&logo=hono&logoColor=FF4D15)
 
 **Deep Learning Tools**
 
